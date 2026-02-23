@@ -1,8 +1,8 @@
 {
-  "name": "personal-website",
-  "homepage": "https://dsu06.github.io/scriptkitty/",
-  "private": true,
-  "version": "2.0.0",
+  "name": "scriptkitty.ru",
+  "homepage": "https://scriptkitty.ru/",
+  "private": false,
+  "version": "2.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
